@@ -1,6 +1,6 @@
 ![UCBA - Blanco](https://github.com/user-attachments/assets/81512866-dfcc-4f5b-b40f-968568b3e6fd)
 
-# Actividad2 - Programación de Vanguardia
+# Actividad 2 - Programación de Vanguardia
 
 Este proyecto es parte de la materia **Programación de Vanguardia** de la **Universidad de la Ciudad de Buenos Aires**.  
 Consiste en desarrollar una aplicación Java utilizando **Maven** como gestor de dependencias y empaquetado, incorporando el uso práctico de una LLM y un IDE como **IntelliJ CE**, explicando lo presentado.
@@ -33,6 +33,3 @@ Actividad2/
 │   │   │   └── ar/edu/udeci/pv/App.java
 │   │   └── resources/
 │   │       └── log4j2.xml
-
-
-
