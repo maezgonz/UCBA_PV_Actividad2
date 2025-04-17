@@ -24,4 +24,4 @@ java -jar target/Actividad2-1.0-SNAPSHOT.jar -n Juan
 Se utilizó **ChatGPT** (OpenAI, GPT-4) para generar código base, explicar dependencias y estructurar este proyecto.
 
 ## Autor
-[Matias Goznalez]
+[Matias Gonzalez]
